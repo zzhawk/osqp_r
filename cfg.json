@@ -1,0 +1,22 @@
+{
+    "weight":{
+        "l":1.0,
+        "dl":20.0,
+        "ddl":10.0,
+        "dddl":10.0,
+        "l_end":1.0,
+        "dl_end":1.0,
+        "ddl_end":1.0,
+        "l_ref":10.0
+    },
+    
+    "constrain":{
+        "border": true,
+        "heading": true,
+        "kappa": false,
+        "jerk": false,
+        "start": true,
+        "ddl2dl": true,
+        "dl2l": true
+    }
+}
